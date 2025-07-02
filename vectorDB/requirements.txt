@@ -1,0 +1,24 @@
+# Core dependencies
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+
+# Vectorstore
+chromadb
+
+# Local LLM
+ollama  # This is optional here — usually runs outside Python, but add for completeness
+
+# Web scraping
+requests
+beautifulsoup4  # used internally by WebBaseLoader
+
+# Embedding tokenizer
+tiktoken
+
+# UI
+gradio
+
+# Optional utilities (recommended)
+urllib3
