@@ -1,0 +1,7 @@
+streamlit
+youtube-transcript-api
+beautifulsoup4
+requests
+embedchain
+openai
+pydantic
